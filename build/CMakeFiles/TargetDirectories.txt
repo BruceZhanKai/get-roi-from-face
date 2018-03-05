@@ -1,0 +1,3 @@
+/home/bruce/Desktop/gitBruce/get-roi-from-face/build/CMakeFiles/edit_cache.dir
+/home/bruce/Desktop/gitBruce/get-roi-from-face/build/CMakeFiles/rebuild_cache.dir
+/home/bruce/Desktop/gitBruce/get-roi-from-face/build/CMakeFiles/get-roi-from-face.dir

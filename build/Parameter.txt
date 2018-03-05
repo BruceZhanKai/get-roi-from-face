@@ -1,0 +1,4 @@
+DetectScale:		200
+RectThreshold:		36000
+OffSet:				38
+SaveImagePerCount:	1  (useless)
